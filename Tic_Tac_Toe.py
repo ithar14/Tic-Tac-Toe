@@ -53,7 +53,9 @@ else:
     player2='X'
     
 print("you've got 3 tries")
+output(num)
 for i in range(1,4):
+    print("\n")
     print(player1,'choose a position')
     position1 = input('?')
     pos(position1,num,player1,player2)
