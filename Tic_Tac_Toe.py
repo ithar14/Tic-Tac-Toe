@@ -19,7 +19,6 @@ def output(num):
 def sol(p1,p2):
     p1.sort()
     p2.sort()
-    random.shuffle(p2)
     if p1 in solution :
         print(player1,'is the winner!')
     elif p2 in solution :
