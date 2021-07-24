@@ -1,7 +1,7 @@
 # Tic-Tac-Toe in terminal
 ```
 $ python Tic_Tac_Toe.py
-X or O ? : O
+X or O ? : X
 you've got 3 tries
  | 1 |  | 2 |  | 3 |
 
@@ -9,29 +9,29 @@ you've got 3 tries
 
  | 7 |  | 8 |  | 9 |
 
-O choose a position
+X choose a position
 ?5
- | 1 |  | 2 |  | 3 |
+ | O |  | 2 |  | 3 |
 
- | X |  | O |  | 6 |
+ | 4 |  | X |  | 6 |
 
  | 7 |  | 8 |  | 9 |
 
-O choose a position
+X choose a position
 ?2
- | X |  | O |  | 3 |
+ | O |  | X |  | 3 |
 
- | X |  | O |  | 6 |
+ | O |  | X |  | 6 |
 
  | 7 |  | 8 |  | 9 |
 
-O choose a position
+X choose a position
 ?8
- | X |  | O |  | 3 |
+ | O |  | X |  | 3 |
 
- | X |  | O |  | 6 |
+ | O |  | X |  | O |
 
- | X |  | O |  | 9 |
+ | 7 |  | X |  | 9 |
 
-O is the winner!
+X is the winner!
 ```
